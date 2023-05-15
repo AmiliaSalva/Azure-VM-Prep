@@ -1,4 +1,4 @@
-# Setting up VMs in Azure
+# Setting up Vulnerable VMs in Azure
 
 
 
