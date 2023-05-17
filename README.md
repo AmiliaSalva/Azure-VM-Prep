@@ -66,6 +66,8 @@
   - **Destination:** This defines where the traffic is going to. Since we want the traffic to reach our VM, we can set this to ```Any```.
   
   - **Destination port ranges:** This specifies the ports on our VM that are allowed to receive traffic. We can set this to ```*``` or ```Any``` to open all ports.
+  
+  - **Priority:** Setting priorities in Network Security Groups (NSGs) is an essential step. The priority determines the order in which rules are applied. Rules with lower priority numbers are processed before rules with higher priority numbers because the lower the number, the higher the priority. For the purpose of this lab, we are setting the priority to ```300``` to ensure that this honeypot functions as intended!
 
   - **Action:** We'll set this to ```Allow```, which means that traffic matching this rule will be allowed to reach our VM. 
   
