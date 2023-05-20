@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/5ea56352-1c7f-4f4a-a243-272f6fbd9ee5)
 
-### To kick off our Azure Honeynet project, we first need to set up the virtual machines (VMs) we'll be using. Virtual machines are like computers in the cloud, and they'll form the foundation of our honeynet. I'll guide you through the process so you can understand how it's done. Here are the steps we'll take in Microsoft Azure:
+### To kick off my Azure Honeynet project, we first need to set up the virtual machines (VMs) we'll be using. Virtual machines are like computers in the cloud, and they'll form the foundation of our honeynet. I'll guide you through the process so you can understand how it's done. Here are the steps we'll take in Microsoft Azure:
 
 1. **Sign in to the Azure portal:** The first step is to log into your Azure account. If you don't have an account yet, **[you'll need to create one!](https://portal.azure.com)**
 
