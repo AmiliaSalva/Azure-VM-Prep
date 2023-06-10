@@ -1,4 +1,4 @@
-# Setting up Vulnerable VMs in Azure
+# Configuring and Implementing a Honeypot in Azure
 
 
 
